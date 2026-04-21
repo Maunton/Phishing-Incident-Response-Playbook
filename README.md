@@ -5,6 +5,23 @@
 ![Focus](https://img.shields.io/badge/Focus-Phishing%20Response-red)
 ![Use Case](https://img.shields.io/badge/Use%20Case-SOC%20%7C%20Email%20Security-black)
 
+## Table of Contents
+
+- [Overview](#overview)
+- [What Employers Should Notice](#what-employers-should-notice)
+- [Why This Playbook Matters](#why-this-playbook-matters)
+- [Response Philosophy](#response-philosophy)
+- [Playbook Workflow](#playbook-workflow)
+  - [Investigation](#investigation)
+  - [Remediation](#remediation)
+  - [Communication](#communication)
+- [Recommended Outputs](#recommended-outputs)
+- [Use Cases](#use-cases)
+- [Screenshot](#screenshot)
+- [Key Takeaways](#key-takeaways)
+
+---
+
 ## Overview
 
 This repository contains a **phishing incident response playbook** designed to guide analysts, security teams, and stakeholders through the handling of phishing-related incidents.
@@ -21,19 +38,20 @@ This project demonstrates understanding of:
 
 ---
 
-## Table of Contents
+## What Employers Should Notice
 
-- [Overview](#overview)
-- [Why This Playbook Matters](#why-this-playbook-matters)
-- [Response Philosophy](#response-philosophy)
-- [Playbook Workflow](#playbook-workflow)
-  - [Investigation](#investigation)
-  - [Remediation](#remediation)
-  - [Communication](#communication)
-- [Recommended Outputs](#recommended-outputs)
-- [Use Cases](#use-cases)
-- [Screenshot](#screenshot)
-- [Key Takeaways](#key-takeaways)
+This repository demonstrates practical cybersecurity thinking through the structure of a phishing incident response playbook. Rather than presenting phishing as a simple awareness topic, this project approaches it as an operational security problem that requires investigation, containment, communication, and recovery.
+
+From an employer's perspective, this project highlights several valuable strengths:
+
+- the ability to think in terms of **incident response workflows**
+- understanding of how phishing impacts **users, systems, business operations, and stakeholders**
+- awareness that real-world response requires **parallel coordination across technical and non-technical teams**
+- the ability to create **clear, usable security documentation**
+- familiarity with concepts relevant to **SOC operations, blue team work, and escalation procedures**
+- a practical mindset focused on **triage, remediation, evidence preservation, and business continuity**
+
+This is the kind of project that helps show readiness for entry-level cybersecurity roles because it demonstrates more than tool usage alone. It shows an understanding of how defenders organize, document, and execute response during a common real-world security incident.
 
 ---
 
