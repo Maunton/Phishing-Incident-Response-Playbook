@@ -208,7 +208,7 @@ This playbook is useful for scenarios such as:
 
 Below is a visual associated with the phishing playbook.
 
-![Phishing Playbook Visual](https://github.com/Maunton/Phishing-Playbook/assets/148402281/e07c7910-738f-4692-9abb-cbcdef0cdb2a)
+![Phishing Playbook Quick Reference](images/phishing-playbook-quick-reference.png)
 
 **Figure 1:** Visual cover image representing the phishing incident response playbook and its focus on investigation, remediation, and communication.
 
